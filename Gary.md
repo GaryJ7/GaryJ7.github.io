@@ -4,7 +4,6 @@
 <html>
 
 <body>
-
 <h1>About Me</h1>
 <p>My name is Gary Johnson. I am from Churchville,  NY so I am no stranger to RIT. Despite living in Rochester weather all my life, I still hate the cold. I like the idea of snow until I have to shovel it or be in the cold for a extended period of time. I went to Caledonia-Mumford high school, rather than Churchville-Chili. My high school had a graduating class of 70 which is slightly smaller that RIT's ~4,000. I am a third generation RIT student, both my parents, and my grandfather (on my mom's side) went to RIT all for EEEE. SE is far superior than EEEE will ever be. Golisano >>> Gleason.</p>
 
@@ -14,7 +13,10 @@
 
 <a href="https://www.se.rit.edu/~swen-101/00/index.html">SE Website Link</a>
 <p>My daily bread is my favorite food. </p>
+<style>
 <img src="20260915_144229.jpg" alt="Favorite Food" style="width:500px;height:600px; transform: rotate(-90deg);">
+</style>
+
 
 </body>
 
