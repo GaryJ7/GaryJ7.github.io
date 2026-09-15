@@ -13,9 +13,10 @@
 
 <a href="https://www.se.rit.edu/~swen-101/00/index.html">SE Website Link</a>
 <p>My daily bread is my favorite food. </p>
-<style>
+<style> 
 <img src="20260915_144229.jpg" alt="Favorite Food" style="width:500px;height:600px; transform: rotate(-90deg);">
 </style>
+
 
 
 </body>
