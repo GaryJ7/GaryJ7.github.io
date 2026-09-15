@@ -13,9 +13,18 @@
 
 <a href="https://www.se.rit.edu/~swen-101/00/index.html">SE Website Link</a>
 <p>My daily bread is my favorite food. </p>
-<style> 
+
 <img src="20260915_144229.jpg" alt="Favorite Food" style="width:500px;height:600px; transform: rotate(-90deg);">
-</style>
+
+<ul>
+
+<li> I hope to become more proficient with working as a team</li>
+<li>I want to learn more HTML because it's a basic skill that everyone should know</li>
+<li>I'd like to learn what it actually takes to become an software engineer</li>
+  
+</ul>
+
+</body>
 
 
 
