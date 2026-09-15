@@ -3,10 +3,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-<title>Gary Johnson's Bio</title>  
-</head>
-
 <body>
 
 <h1>About Me</h1>
