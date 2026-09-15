@@ -18,7 +18,7 @@
 
 <a href="https://www.se.rit.edu/~swen-101/00/index.html">SE Website Link</a>
 
-<img src="20260915_144229.jpg" alt="Favorite Food>
+<img src="20260915_144229.jpg" alt="Favorite Food">
 
 </body>
 
